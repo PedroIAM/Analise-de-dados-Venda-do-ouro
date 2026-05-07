@@ -5,7 +5,7 @@ from matplotlib.ticker import FormatStrFormatter
 
 def limpar_valores_high(dataframe):
 def limpar_valores_high(dataframe): 
-    """Remove casas decimais extras da coluna High"""
+    """Remove casas decimais extras da coluna High"""ddd
     mapeamento_valores = {
         '1064.5999755859375': '1064.5',
         '1068.4000244140625': '1068.4',
