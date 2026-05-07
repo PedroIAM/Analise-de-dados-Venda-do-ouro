@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.ticker import FormatStrFormatter
 
-def limpar_valores_high(dataframe): oi
+def limpar_valores_high(dataframe):
 def limpar_valores_high(dataframe): 
     """Remove casas decimais extras da coluna High"""
     mapeamento_valores = {
